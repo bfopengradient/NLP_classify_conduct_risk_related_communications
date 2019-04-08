@@ -1,4 +1,4 @@
-#Test  
+#Test_sample  
 
 Testing multiple machine learning NLP models on conduct risk related communications within a financial services domain.
 Models vary from neural network nlp models to more traditional TF-IDF based models.  
@@ -11,4 +11,5 @@ In the real world models need to detect target content that might represent just
 
 In this test classes are deliberately balanced. Tokenizers are trained on as much data as is available in the test. This will aid the models ahead of classification task but not reflect the real world possibility of out-of-vocab words being shown to the models during testing. F1 scores are compared and the goal is to find the most efficient, least complex and least computationally expensive model.  
 
-Not included in the notebook are tests using novelty detection algorithms. 
+Footnote:
+No novelty detection algorithms. No pretained vectors imported. Balanced classes. Shallow nets. Left-to-right LSTM's.
