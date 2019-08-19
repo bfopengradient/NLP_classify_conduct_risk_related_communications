@@ -1,6 +1,6 @@
-#Test_sample  
+ 
 
-Testing multiple machine learning NLP models on conduct risk related communications within a financial services domain.
+Testing multiple machine learning NLP models on conduct risk related communications within the financial services domain.
 Models vary from neural network nlp models to more traditional TF-IDF based models.  
 
 There were multiple different upstream conversions of text-to-numeric. Some models used word embedding vectors with minimal preprocessing, others followed a more traditional atomic based bag of words approach with typical preprocessing for that format e.g lower casing, lemmatization and punctuation plus stopword removal.
