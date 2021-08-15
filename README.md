@@ -13,3 +13,5 @@ In this test classes are deliberately balanced. Tokenizers are trained on as muc
 
 Footnote:
 No novelty detection algorithms. No pretained vectors imported. Balanced classes. Shallow nets. Left-to-right LSTM's.
+
+Dec/2018
